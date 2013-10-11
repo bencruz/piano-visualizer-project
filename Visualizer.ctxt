@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Visualizer()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Visualizer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=k
+comment2.target=void\ visualize(Key)
+comment2.text=\r\n\ To\ make\ imagery\ when\ piano\ is\ played\r\n\ \r\n\ @param\ k\ -\ the\ key\ played\r\n
+numComments=3
